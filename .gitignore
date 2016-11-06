@@ -138,3 +138,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Reports
+reports/
